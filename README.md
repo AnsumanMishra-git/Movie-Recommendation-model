@@ -10,7 +10,7 @@ In the second part i have built a model which recommends based on the genre , th
 
 The results of the two models-
 1. Plot/overview based - 
-   ![Plot based](/images/PlotBased Result.png)
+![Plot based](/images/PlotBased Result.png)
    
    
 2. Genre/director/cast based - 
