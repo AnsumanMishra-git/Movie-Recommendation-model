@@ -10,7 +10,17 @@ In the second part i have built a model which recommends based on the genre , th
 
 The results of the two models-
 1. Plot/overview based - 
+
+
+
+
+
 ![Plot based](https://github.com/AnsumanMishra-git/Movie-Recommendation-model/blob/main/Images/PlotBased%20Result.png)
  
 2. Genre/director/cast based - 
+
+
+
+
+
 ![Genre based](https://github.com/AnsumanMishra-git/Movie-Recommendation-model/blob/main/Images/GenreBased%20Result.png)
