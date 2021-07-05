@@ -24,3 +24,9 @@ The results of the two models-
 
 
 ![Genre based](https://github.com/AnsumanMishra-git/Movie-Recommendation-model/blob/main/Images/GenreBased%20Result.png)
+
+
+Genres of the two movies -
+
+![Genre](https://github.com/AnsumanMishra-git/Movie-Recommendation-model/blob/main/Images/Genres.png)
+
