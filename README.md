@@ -7,3 +7,11 @@ This system uses item metadata, such as genre, director, description, actors, et
 
 This notebook is divided into two parts . In the first part i have built a model which recommends based on the plot of the movie.
 In the second part i have built a model which recommends based on the genre , the director , the cast and other keywords.
+
+The results of the two models-
+1. Plot/overview based - 
+   ![Plot based](/images/PlotBased Result.png)
+   
+   
+2. Genre/director/cast based - 
+   ![Genre based](/images/GenreBased Result.png)
